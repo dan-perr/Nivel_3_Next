@@ -1,0 +1,30 @@
+#botao1 {
+    margin-top: 25px;
+}
+
+.tbody>tr:nth-child(2n) {
+    background-color: rgb(228, 228, 228);
+}
+
+.tr {
+    background-color: rgba(0, 0, 0, 0.747);
+    color: rgba(255, 255, 255, 0.849);
+}
+
+.fonte {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+#acoes {
+    padding-left: 20px;
+}
+
+#tit {
+    padding-left: 6px;
+}
+
+#titt {
+    padding-left: 6px;
+}
+
